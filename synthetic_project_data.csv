@@ -1,0 +1,1001 @@
+Project_ID,Manager_Experience,Team_Size,Budget_kUSD,Duration_days,Domain,Priority,Risk_Score,Status
+P0001,7,9,776.57,140,Marketing,High,40.89,At Risk
+P0002,20,20,216.1,131,HR,Low,39.99,At Risk
+P0003,15,4,527.44,46,Operations,Medium,32.65,On Schedule
+P0004,11,19,428.73,297,HR,Low,68.65,Delayed
+P0005,8,13,189.06,211,IT,Low,49.73,At Risk
+P0006,7,14,399.16,53,Marketing,Low,47.8,At Risk
+P0007,19,9,114.76,58,IT,Medium,20.44,On Schedule
+P0008,11,8,74.52,200,IT,High,22.03,On Schedule
+P0009,11,3,178.41,257,Finance,Medium,43.28,At Risk
+P0010,4,19,964.96,217,Marketing,High,59.49,At Risk
+P0011,8,13,572.05,259,IT,Low,66.95,Delayed
+P0012,3,20,967.53,350,Operations,Low,100.0,Delayed
+P0013,2,19,460.87,148,IT,Low,69.59,Delayed
+P0014,12,9,346.23,185,Operations,Low,51.06,At Risk
+P0015,6,19,530.83,301,Finance,Low,79.2,Delayed
+P0016,2,11,467.54,204,IT,High,50.01,At Risk
+P0017,1,19,150.38,133,HR,High,37.89,At Risk
+P0018,12,10,658.78,121,Finance,Low,53.12,At Risk
+P0019,12,19,255.24,215,Operations,Medium,47.34,At Risk
+P0020,17,9,638.61,312,Finance,Medium,63.99,At Risk
+P0021,10,3,667.69,210,IT,Low,49.89,At Risk
+P0022,16,15,194.42,199,Marketing,High,30.01,On Schedule
+P0023,15,19,108.28,216,Marketing,Medium,32.1,On Schedule
+P0024,15,15,791.72,204,Operations,Medium,58.87,At Risk
+P0025,19,18,486.81,251,Operations,Medium,52.75,At Risk
+P0026,12,10,105.26,262,Marketing,Low,49.72,At Risk
+P0027,20,20,995.12,191,Operations,Medium,59.02,At Risk
+P0028,3,3,104.89,163,Finance,Medium,32.08,On Schedule
+P0029,5,16,710.28,253,HR,Medium,64.48,At Risk
+P0030,19,17,984.49,182,HR,Medium,62.46,At Risk
+P0031,7,20,277.22,62,Finance,High,34.18,At Risk
+P0032,9,4,185.14,84,HR,Low,19.14,On Schedule
+P0033,7,19,165.32,36,IT,Low,45.14,At Risk
+P0034,18,20,338.11,273,Finance,High,50.1,At Risk
+P0035,4,8,145.99,342,Operations,High,39.64,At Risk
+P0036,14,6,707.55,155,Finance,Low,57.33,At Risk
+P0037,18,3,109.18,41,Marketing,Medium,0.0,On Schedule
+P0038,9,10,533.95,45,Operations,Medium,37.14,At Risk
+P0039,2,9,996.86,237,Marketing,Low,76.5,Delayed
+P0040,20,5,823.27,72,Operations,Medium,27.55,On Schedule
+P0041,15,12,634.46,164,HR,High,34.99,At Risk
+P0042,7,12,340.94,257,Finance,Medium,60.61,At Risk
+P0043,12,16,642.7,140,IT,Medium,51.8,At Risk
+P0044,8,4,550.69,336,Operations,Medium,52.45,At Risk
+P0045,15,3,454.78,189,Operations,Low,49.39,At Risk
+P0046,3,20,174.17,360,Marketing,High,56.1,At Risk
+P0047,14,9,892.27,293,HR,Medium,49.71,At Risk
+P0048,17,10,477.3,254,Marketing,Low,51.46,At Risk
+P0049,4,3,234.89,246,Marketing,Medium,34.06,At Risk
+P0050,18,5,399.37,74,HR,High,11.8,On Schedule
+P0051,8,10,443.42,243,IT,Medium,54.17,At Risk
+P0052,4,17,836.16,88,Marketing,High,43.96,At Risk
+P0053,2,7,746.93,161,Marketing,Medium,42.73,At Risk
+P0054,6,5,780.84,133,Operations,High,46.85,At Risk
+P0055,10,3,60.48,224,HR,Medium,32.23,On Schedule
+P0056,4,17,445.35,186,Finance,High,51.51,At Risk
+P0057,18,10,507.28,127,IT,Medium,37.16,At Risk
+P0058,12,4,68.23,255,IT,Medium,29.13,On Schedule
+P0059,2,5,296.82,234,HR,Low,52.81,At Risk
+P0060,10,16,772.28,108,Operations,Low,62.39,At Risk
+P0061,4,16,180.25,153,Operations,High,37.05,At Risk
+P0062,14,13,558.54,247,HR,Medium,50.68,At Risk
+P0063,16,18,254.44,33,Operations,High,17.09,On Schedule
+P0064,15,6,61.51,119,IT,Low,26.88,On Schedule
+P0065,8,7,279.14,133,IT,High,26.46,On Schedule
+P0066,14,16,977.08,148,Finance,High,61.32,At Risk
+P0067,8,18,811.46,162,HR,Low,63.61,At Risk
+P0068,16,20,961.6,341,Marketing,Medium,72.39,Delayed
+P0069,13,9,513.46,125,Marketing,High,26.77,On Schedule
+P0070,18,12,154.25,360,Finance,Low,48.75,At Risk
+P0071,15,9,570.56,172,Finance,Medium,46.5,At Risk
+P0072,13,3,481.66,317,Operations,Low,59.09,At Risk
+P0073,9,18,852.14,57,Finance,High,52.04,At Risk
+P0074,15,6,143.18,307,Finance,Medium,40.07,At Risk
+P0075,13,20,513.83,262,Marketing,Medium,55.94,At Risk
+P0076,1,4,192.55,46,Operations,Low,39.07,At Risk
+P0077,7,3,358.44,88,Finance,Low,34.94,At Risk
+P0078,9,17,750.49,119,Finance,Low,68.62,Delayed
+P0079,1,7,502.22,228,Operations,Medium,53.72,At Risk
+P0080,12,13,407.09,55,HR,Medium,28.89,On Schedule
+P0081,8,12,424.75,54,Operations,High,40.52,At Risk
+P0082,11,4,486.47,330,Marketing,Medium,49.98,At Risk
+P0083,19,5,795.77,296,HR,High,33.1,At Risk
+P0084,17,14,897.48,210,IT,Low,65.7,At Risk
+P0085,8,7,957.57,97,Operations,Low,66.2,Delayed
+P0086,3,7,797.56,350,Marketing,Medium,58.49,At Risk
+P0087,3,8,349.64,78,HR,Low,44.23,At Risk
+P0088,1,11,703.73,204,Operations,Low,72.21,Delayed
+P0089,5,4,465.72,81,Finance,Medium,33.31,At Risk
+P0090,10,14,291.94,131,Operations,High,33.96,At Risk
+P0091,7,5,848.83,245,IT,Medium,61.7,At Risk
+P0092,9,14,86.51,217,Operations,High,40.79,At Risk
+P0093,7,19,906.67,86,HR,Medium,57.58,At Risk
+P0094,9,12,488.4,76,HR,Medium,48.32,At Risk
+P0095,8,16,655.34,188,Operations,Low,58.93,At Risk
+P0096,12,19,676.39,203,HR,Medium,58.41,At Risk
+P0097,2,20,900.36,271,Finance,Medium,78.33,Delayed
+P0098,1,19,654.84,311,Operations,High,69.86,Delayed
+P0099,16,16,633.24,270,Finance,Low,66.63,Delayed
+P0100,5,11,113.32,34,Finance,High,26.21,On Schedule
+P0101,3,10,542.49,113,Marketing,High,33.48,At Risk
+P0102,12,4,192.66,337,Operations,Low,47.29,At Risk
+P0103,8,15,750.56,277,HR,Low,69.56,Delayed
+P0104,3,9,536.61,83,Finance,Low,64.83,At Risk
+P0105,1,11,696.22,190,Marketing,Medium,57.6,At Risk
+P0106,3,13,89.59,255,Operations,Low,51.68,At Risk
+P0107,5,16,130.55,44,Operations,Low,47.43,At Risk
+P0108,15,6,730.51,253,IT,Low,55.8,At Risk
+P0109,14,15,118.48,90,IT,High,20.07,On Schedule
+P0110,3,4,117.69,151,Finance,High,31.44,On Schedule
+P0111,1,7,61.5,306,IT,Medium,52.67,At Risk
+P0112,5,13,958.68,75,Finance,High,48.64,At Risk
+P0113,14,8,750.63,323,HR,Medium,55.05,At Risk
+P0114,7,20,385.59,91,Finance,High,40.86,At Risk
+P0115,9,12,331.71,115,IT,Low,49.19,At Risk
+P0116,15,6,382.22,239,HR,High,26.0,On Schedule
+P0117,15,11,785.92,107,IT,Medium,43.42,At Risk
+P0118,10,8,678.3,231,Finance,High,45.96,At Risk
+P0119,13,4,225.94,331,Marketing,Low,43.88,At Risk
+P0120,19,19,215.4,252,Operations,Medium,52.51,At Risk
+P0121,7,7,143.48,251,IT,Low,59.06,At Risk
+P0122,17,8,677.29,32,Finance,Low,44.24,At Risk
+P0123,20,14,776.15,35,HR,Medium,33.79,At Risk
+P0124,4,12,301.79,122,IT,Low,43.99,At Risk
+P0125,5,8,69.9,37,IT,Low,29.7,On Schedule
+P0126,7,10,128.06,264,Operations,High,36.25,At Risk
+P0127,13,4,969.47,137,Finance,Low,55.21,At Risk
+P0128,15,14,330.67,190,Marketing,Low,42.0,At Risk
+P0129,11,15,780.76,238,HR,Low,74.73,Delayed
+P0130,4,9,643.43,269,Finance,Low,73.01,Delayed
+P0131,13,12,412.84,360,HR,Medium,54.3,At Risk
+P0132,7,15,245.4,362,IT,High,48.04,At Risk
+P0133,19,19,165.32,79,Operations,Low,44.11,At Risk
+P0134,2,16,634.26,40,Operations,Low,60.33,At Risk
+P0135,10,4,785.9,185,Marketing,Medium,40.19,At Risk
+P0136,13,13,661.71,99,Operations,Low,46.67,At Risk
+P0137,6,3,553.79,198,IT,Medium,43.78,At Risk
+P0138,12,6,89.85,301,Marketing,High,21.56,On Schedule
+P0139,12,13,970.06,97,Finance,High,55.28,At Risk
+P0140,20,10,808.78,281,Operations,Low,70.17,Delayed
+P0141,11,13,328.18,77,Marketing,Low,33.11,At Risk
+P0142,7,6,980.97,213,IT,Low,62.83,At Risk
+P0143,1,19,621.79,349,HR,Medium,75.5,Delayed
+P0144,1,9,603.3,216,HR,Low,60.83,At Risk
+P0145,20,10,760.67,119,IT,Low,47.55,At Risk
+P0146,13,5,821.18,361,IT,High,49.58,At Risk
+P0147,9,4,673.65,168,HR,Low,51.42,At Risk
+P0148,3,17,171.69,118,Marketing,High,35.79,At Risk
+P0149,7,7,371.35,303,HR,Low,52.66,At Risk
+P0150,6,3,931.68,48,IT,High,38.42,At Risk
+P0151,8,6,263.38,340,Operations,Low,55.55,At Risk
+P0152,9,17,403.56,183,Finance,High,55.25,At Risk
+P0153,5,5,460.47,289,Operations,Medium,60.22,At Risk
+P0154,1,13,467.43,137,Operations,High,44.27,At Risk
+P0155,19,19,632.29,314,IT,High,46.8,At Risk
+P0156,10,15,945.92,88,HR,High,39.45,At Risk
+P0157,12,13,278.66,154,Marketing,Low,45.92,At Risk
+P0158,15,4,165.43,302,Operations,Low,44.54,At Risk
+P0159,9,11,237.6,136,HR,Low,46.92,At Risk
+P0160,20,4,892.58,328,Marketing,Medium,56.86,At Risk
+P0161,17,11,663.52,274,Operations,Medium,49.45,At Risk
+P0162,17,11,321.61,365,Marketing,High,30.46,On Schedule
+P0163,20,10,825.15,276,HR,Medium,50.99,At Risk
+P0164,12,19,868.3,37,Finance,High,51.62,At Risk
+P0165,7,3,854.19,170,HR,High,34.74,At Risk
+P0166,2,13,922.98,37,IT,High,46.99,At Risk
+P0167,3,10,289.63,123,Marketing,Medium,42.46,At Risk
+P0168,17,12,767.29,350,Finance,Low,66.71,Delayed
+P0169,5,9,487.51,68,Marketing,Medium,35.87,At Risk
+P0170,17,5,849.9,110,Marketing,High,22.05,On Schedule
+P0171,17,5,742.07,216,Operations,High,36.23,At Risk
+P0172,17,20,787.63,113,IT,Medium,54.21,At Risk
+P0173,2,7,673.35,117,Marketing,High,36.74,At Risk
+P0174,2,14,218.56,271,HR,High,40.61,At Risk
+P0175,5,14,567.78,122,HR,Medium,46.74,At Risk
+P0176,1,8,985.44,115,Operations,Medium,66.96,Delayed
+P0177,1,4,940.52,73,IT,Medium,51.93,At Risk
+P0178,19,14,91.02,166,IT,High,23.25,On Schedule
+P0179,2,7,206.57,103,HR,High,25.6,On Schedule
+P0180,12,14,175.14,65,Finance,Low,45.58,At Risk
+P0181,6,19,739.68,130,Operations,Low,68.8,Delayed
+P0182,4,19,826.9,185,Operations,Medium,67.01,Delayed
+P0183,11,12,252.84,284,HR,Low,57.29,At Risk
+P0184,17,19,530.56,200,HR,High,44.32,At Risk
+P0185,6,17,848.67,245,Finance,Low,79.01,Delayed
+P0186,5,14,746.16,199,Finance,High,54.67,At Risk
+P0187,20,18,565.13,281,IT,Medium,52.59,At Risk
+P0188,2,10,610.83,351,Operations,Medium,76.94,Delayed
+P0189,6,19,532.94,84,Operations,High,46.44,At Risk
+P0190,11,7,332.67,120,HR,Low,32.67,On Schedule
+P0191,16,18,586.77,307,IT,Medium,59.14,At Risk
+P0192,16,8,704.44,130,Operations,Medium,39.55,At Risk
+P0193,1,10,879.66,184,IT,Low,67.12,Delayed
+P0194,9,20,654.48,170,IT,Low,67.39,Delayed
+P0195,6,14,773.07,202,HR,High,49.91,At Risk
+P0196,16,17,202.07,39,IT,Low,34.33,At Risk
+P0197,3,11,488.48,257,Finance,Low,68.9,Delayed
+P0198,20,15,58.87,294,Finance,Low,56.73,At Risk
+P0199,4,17,284.34,277,Marketing,High,44.31,At Risk
+P0200,19,12,740.14,276,HR,High,42.34,At Risk
+P0201,3,18,992.22,184,Marketing,Medium,68.36,Delayed
+P0202,19,9,144.22,63,Finance,High,10.15,On Schedule
+P0203,20,19,431.42,158,Marketing,Medium,37.15,At Risk
+P0204,7,9,810.07,189,HR,Low,62.75,At Risk
+P0205,20,16,243.83,118,HR,Medium,28.47,On Schedule
+P0206,9,17,577.33,122,IT,Medium,46.6,At Risk
+P0207,1,9,746.42,356,Operations,Low,81.69,Delayed
+P0208,8,11,635.19,270,IT,Medium,61.45,At Risk
+P0209,7,18,228.62,352,HR,High,50.27,At Risk
+P0210,18,10,387.62,146,Finance,High,28.05,On Schedule
+P0211,8,20,794.6,123,Finance,High,56.69,At Risk
+P0212,1,20,576.52,192,IT,High,59.2,At Risk
+P0213,11,9,54.97,128,HR,Medium,27.22,On Schedule
+P0214,18,5,772.94,142,Finance,Medium,40.38,At Risk
+P0215,10,20,83.55,120,HR,Low,41.77,At Risk
+P0216,3,12,758.45,235,Finance,Medium,63.45,At Risk
+P0217,7,9,242.36,46,HR,Medium,31.62,On Schedule
+P0218,16,19,960.17,303,Marketing,Medium,69.47,Delayed
+P0219,16,16,399.54,202,HR,Low,53.98,At Risk
+P0220,20,5,360.59,145,HR,High,17.08,On Schedule
+P0221,17,14,191.44,210,IT,Medium,35.54,At Risk
+P0222,2,15,340.32,120,Marketing,Low,49.63,At Risk
+P0223,1,4,882.82,111,Operations,Low,58.01,At Risk
+P0224,16,5,996.52,353,IT,Low,65.02,At Risk
+P0225,12,7,399.89,143,Operations,High,32.51,On Schedule
+P0226,5,13,476.18,286,Finance,Medium,62.01,At Risk
+P0227,5,10,735.97,87,Operations,Low,63.4,At Risk
+P0228,9,14,891.89,183,HR,High,49.4,At Risk
+P0229,9,9,613.39,145,Operations,Low,52.39,At Risk
+P0230,3,17,421.95,295,IT,Low,68.83,Delayed
+P0231,19,19,441.99,344,IT,Low,62.84,At Risk
+P0232,16,6,710.84,232,Operations,Low,61.43,At Risk
+P0233,16,15,53.06,70,IT,Low,27.5,On Schedule
+P0234,3,20,638.61,134,IT,High,61.94,At Risk
+P0235,20,3,387.72,222,Operations,Medium,26.71,On Schedule
+P0236,1,18,804.49,307,Marketing,Medium,78.07,Delayed
+P0237,20,15,138.34,266,Marketing,Medium,32.46,On Schedule
+P0238,11,12,608.79,250,Finance,Medium,57.12,At Risk
+P0239,17,14,506.92,97,IT,High,21.97,On Schedule
+P0240,8,4,660.21,226,Operations,High,40.98,At Risk
+P0241,4,5,111.61,285,IT,High,28.88,On Schedule
+P0242,6,12,600.98,168,HR,Low,51.81,At Risk
+P0243,8,4,583.41,341,IT,Low,64.29,At Risk
+P0244,20,15,582.63,178,IT,Low,48.65,At Risk
+P0245,3,15,623.31,128,Marketing,Medium,58.42,At Risk
+P0246,16,20,692.64,105,Operations,Low,63.53,At Risk
+P0247,3,5,814.74,311,IT,Medium,72.03,Delayed
+P0248,18,9,306.33,138,Marketing,Low,29.19,On Schedule
+P0249,14,16,833.8,217,Finance,Medium,64.03,At Risk
+P0250,18,19,523.34,228,Marketing,Low,43.88,At Risk
+P0251,2,14,123.21,332,Marketing,Low,60.58,At Risk
+P0252,3,18,105.62,356,Marketing,High,49.46,At Risk
+P0253,16,14,367.53,183,IT,Low,49.19,At Risk
+P0254,9,17,795.65,69,IT,Low,60.64,At Risk
+P0255,4,12,722.3,162,Finance,High,52.8,At Risk
+P0256,1,9,799.18,161,HR,Medium,45.09,At Risk
+P0257,4,7,541.41,308,HR,High,48.84,At Risk
+P0258,1,3,468.19,113,HR,High,31.38,On Schedule
+P0259,14,19,190.08,271,Finance,Medium,58.85,At Risk
+P0260,16,5,361.78,145,HR,Low,36.13,At Risk
+P0261,20,15,462.32,138,HR,Medium,34.06,At Risk
+P0262,8,16,134.17,250,Marketing,Low,57.1,At Risk
+P0263,7,20,259.58,70,IT,Low,40.92,At Risk
+P0264,3,6,618.31,176,IT,Medium,47.66,At Risk
+P0265,17,20,748.88,141,Marketing,High,35.97,At Risk
+P0266,1,7,998.43,132,Marketing,Medium,55.24,At Risk
+P0267,16,18,936.46,75,Marketing,Low,45.96,At Risk
+P0268,12,3,660.44,353,IT,Medium,59.21,At Risk
+P0269,19,16,450.19,300,HR,Medium,47.69,At Risk
+P0270,14,17,654.37,224,Marketing,Low,61.47,At Risk
+P0271,6,11,796.37,309,Finance,High,64.05,At Risk
+P0272,6,17,162.42,312,Marketing,Medium,57.54,At Risk
+P0273,13,19,439.41,69,Operations,Low,43.16,At Risk
+P0274,19,6,847.81,218,Marketing,Low,49.66,At Risk
+P0275,8,14,414.64,193,IT,Medium,54.17,At Risk
+P0276,2,7,593.28,53,Marketing,High,28.21,On Schedule
+P0277,1,7,608.38,53,Operations,Medium,40.54,At Risk
+P0278,15,13,225.25,33,Finance,High,17.33,On Schedule
+P0279,1,8,394.12,352,HR,High,49.16,At Risk
+P0280,5,9,367.79,319,Marketing,High,39.25,At Risk
+P0281,16,16,74.89,210,Operations,High,28.42,On Schedule
+P0282,19,13,72.98,277,Operations,Medium,43.6,At Risk
+P0283,4,15,840.11,145,Finance,Low,72.19,Delayed
+P0284,3,4,309.42,308,IT,Low,56.16,At Risk
+P0285,17,9,542.17,98,Marketing,Low,38.38,At Risk
+P0286,17,6,333.79,283,Operations,Low,47.27,At Risk
+P0287,12,10,943.65,210,Finance,Low,64.52,At Risk
+P0288,14,15,296.33,347,HR,Low,60.12,At Risk
+P0289,6,16,458.17,198,Operations,Medium,55.95,At Risk
+P0290,3,12,879.09,342,Finance,High,75.87,Delayed
+P0291,9,13,849.84,278,IT,Low,70.22,Delayed
+P0292,5,4,226.8,217,IT,Medium,42.74,At Risk
+P0293,17,11,812.51,83,Operations,Low,50.29,At Risk
+P0294,14,19,485.28,355,Operations,Low,68.91,Delayed
+P0295,3,5,508.82,342,Marketing,High,40.1,At Risk
+P0296,1,8,176.81,167,Finance,High,45.01,At Risk
+P0297,20,7,126.57,197,Operations,High,16.0,On Schedule
+P0298,1,7,741.54,132,Marketing,Low,61.06,At Risk
+P0299,3,17,521.64,114,Marketing,Low,50.57,At Risk
+P0300,18,19,465.01,346,Operations,Low,80.21,Delayed
+P0301,10,11,743.03,241,IT,High,52.26,At Risk
+P0302,3,5,777.24,32,Finance,Medium,45.29,At Risk
+P0303,8,19,200.96,208,Finance,Low,61.27,At Risk
+P0304,14,12,629.71,332,IT,Low,70.19,Delayed
+P0305,18,5,178.59,361,Operations,Low,50.82,At Risk
+P0306,15,20,763.81,67,Finance,Medium,53.86,At Risk
+P0307,2,20,674.11,268,Operations,Low,84.11,Delayed
+P0308,10,19,958.78,198,Operations,Medium,71.91,Delayed
+P0309,2,5,115.51,343,Marketing,Low,45.75,At Risk
+P0310,17,5,104.2,335,IT,Medium,32.77,On Schedule
+P0311,8,8,318.08,59,Operations,Low,33.35,At Risk
+P0312,1,15,298.62,219,HR,High,47.68,At Risk
+P0313,9,17,284.63,54,IT,High,25.47,On Schedule
+P0314,11,11,910.94,141,Finance,High,41.87,At Risk
+P0315,16,6,287.07,235,Marketing,High,17.16,On Schedule
+P0316,7,16,308.35,214,Finance,Low,64.5,At Risk
+P0317,10,7,771.43,76,Finance,High,35.77,At Risk
+P0318,3,4,477.25,257,IT,Medium,45.19,At Risk
+P0319,18,13,787.88,68,Finance,High,27.94,On Schedule
+P0320,13,11,112.1,45,Operations,High,15.28,On Schedule
+P0321,7,5,513.19,51,Finance,High,25.84,On Schedule
+P0322,4,11,81.93,242,Marketing,Low,47.71,At Risk
+P0323,13,5,109.52,339,Marketing,High,24.81,On Schedule
+P0324,20,4,911.12,178,HR,Medium,40.67,At Risk
+P0325,1,14,182.28,270,Marketing,High,45.89,At Risk
+P0326,8,12,555.8,301,Finance,High,55.72,At Risk
+P0327,14,11,440.54,88,Marketing,High,18.93,On Schedule
+P0328,16,17,379.98,316,IT,Medium,53.67,At Risk
+P0329,14,10,904.84,231,Marketing,High,41.6,At Risk
+P0330,12,7,70.73,61,Operations,Medium,13.46,On Schedule
+P0331,19,13,680.6,191,IT,Medium,50.03,At Risk
+P0332,15,4,965.22,284,HR,High,48.31,At Risk
+P0333,2,17,582.16,283,Operations,Medium,79.61,Delayed
+P0334,2,8,939.98,38,Finance,Low,73.77,Delayed
+P0335,19,10,99.64,168,Finance,High,15.18,On Schedule
+P0336,17,7,447.85,39,Finance,High,17.12,On Schedule
+P0337,20,18,297.15,243,Operations,Medium,55.61,At Risk
+P0338,10,20,744.28,302,Operations,Medium,72.51,Delayed
+P0339,6,8,982.23,353,Operations,High,66.99,Delayed
+P0340,15,7,293.7,77,IT,Low,25.51,On Schedule
+P0341,11,18,671.47,140,IT,Medium,54.13,At Risk
+P0342,5,15,238.19,182,Finance,Medium,59.96,At Risk
+P0343,1,7,587.06,152,Marketing,Low,59.9,At Risk
+P0344,8,15,490.74,131,Finance,Low,57.85,At Risk
+P0345,12,19,973.41,270,HR,High,59.82,At Risk
+P0346,12,20,628.1,350,IT,Low,73.43,Delayed
+P0347,5,10,382.03,220,Operations,High,38.48,At Risk
+P0348,7,15,158.39,246,IT,Low,48.63,At Risk
+P0349,4,5,193.68,80,Operations,Medium,30.27,On Schedule
+P0350,6,10,264.05,321,HR,High,48.91,At Risk
+P0351,13,4,288.42,110,HR,High,15.78,On Schedule
+P0352,20,10,858.09,117,IT,High,37.73,At Risk
+P0353,15,15,583.16,223,Operations,Low,65.81,At Risk
+P0354,3,15,547.22,133,HR,Medium,49.67,At Risk
+P0355,8,3,159.03,300,Finance,High,31.72,On Schedule
+P0356,20,8,867.13,125,Finance,High,31.86,On Schedule
+P0357,16,18,736.67,227,Operations,High,43.11,At Risk
+P0358,13,10,114.28,30,IT,High,11.25,On Schedule
+P0359,18,3,722.44,196,HR,Medium,23.29,On Schedule
+P0360,10,18,566.36,155,IT,Low,63.88,At Risk
+P0361,19,11,127.64,342,Finance,Medium,44.48,At Risk
+P0362,17,15,485.39,110,HR,High,29.21,On Schedule
+P0363,19,13,510.46,280,IT,Medium,52.12,At Risk
+P0364,5,15,207.49,198,Marketing,High,35.58,At Risk
+P0365,9,12,948.41,102,Operations,Low,71.26,Delayed
+P0366,12,6,857.48,170,Operations,Low,60.84,At Risk
+P0367,1,8,685.57,99,Marketing,Low,50.67,At Risk
+P0368,1,9,489.18,291,Finance,High,54.78,At Risk
+P0369,15,7,441.18,337,HR,Medium,36.1,At Risk
+P0370,2,13,668.42,274,Operations,Low,73.35,Delayed
+P0371,16,15,568.16,32,Marketing,High,20.07,On Schedule
+P0372,8,12,109.16,92,Marketing,High,20.4,On Schedule
+P0373,13,12,536.88,78,Finance,Medium,38.15,At Risk
+P0374,1,13,816.08,105,Finance,Low,66.32,Delayed
+P0375,16,9,486.28,204,IT,High,22.86,On Schedule
+P0376,7,20,99.36,138,Operations,Medium,42.5,At Risk
+P0377,5,6,796.96,212,IT,Low,72.82,Delayed
+P0378,3,4,241.3,221,Marketing,Medium,37.87,At Risk
+P0379,12,16,295.69,94,HR,Medium,39.03,At Risk
+P0380,16,15,206.47,300,HR,High,31.28,On Schedule
+P0381,19,14,363.7,129,Finance,High,21.73,On Schedule
+P0382,5,9,768.91,61,HR,High,30.68,On Schedule
+P0383,14,4,543.42,157,HR,Medium,32.17,On Schedule
+P0384,5,15,244.64,72,HR,High,19.95,On Schedule
+P0385,15,16,883.94,107,Marketing,Medium,42.38,At Risk
+P0386,17,19,885.6,343,HR,Medium,66.35,Delayed
+P0387,14,11,877.05,318,HR,High,46.95,At Risk
+P0388,20,19,276.86,299,HR,Low,45.56,At Risk
+P0389,5,10,478.68,191,IT,Low,59.38,At Risk
+P0390,12,4,985.74,218,Marketing,Low,57.48,At Risk
+P0391,16,15,783.41,276,Finance,Medium,67.16,Delayed
+P0392,16,5,75.81,245,IT,Medium,22.74,On Schedule
+P0393,7,18,111.94,344,Operations,Medium,62.62,At Risk
+P0394,4,8,490.73,197,Marketing,High,42.79,At Risk
+P0395,1,9,913.76,222,Marketing,Medium,63.21,At Risk
+P0396,5,12,561.77,312,Operations,High,53.6,At Risk
+P0397,10,11,522.92,365,Operations,High,54.34,At Risk
+P0398,5,4,150.2,42,Operations,Low,30.38,On Schedule
+P0399,4,17,673.94,269,Finance,Low,78.3,Delayed
+P0400,2,7,831.0,349,HR,Low,80.9,Delayed
+P0401,20,6,411.4,176,Marketing,High,15.18,On Schedule
+P0402,10,6,786.83,233,HR,High,47.37,At Risk
+P0403,19,20,966.25,109,HR,High,41.61,At Risk
+P0404,1,6,243.58,72,Operations,Medium,33.66,At Risk
+P0405,5,19,547.16,118,Finance,High,48.08,At Risk
+P0406,13,14,322.78,177,IT,Low,44.72,At Risk
+P0407,4,19,803.21,124,Finance,Low,79.72,Delayed
+P0408,16,12,598.71,180,HR,High,43.0,At Risk
+P0409,16,3,652.85,31,Finance,High,18.74,On Schedule
+P0410,2,20,808.02,51,Operations,Low,67.98,Delayed
+P0411,17,20,426.17,342,IT,High,47.11,At Risk
+P0412,20,16,919.34,357,Operations,Low,74.27,Delayed
+P0413,12,17,556.38,36,IT,Medium,47.48,At Risk
+P0414,18,14,200.06,235,HR,Low,41.31,At Risk
+P0415,3,6,711.1,143,IT,Medium,47.34,At Risk
+P0416,1,5,803.6,301,IT,High,51.43,At Risk
+P0417,1,14,350.92,112,IT,High,40.2,At Risk
+P0418,19,9,864.32,208,Finance,Medium,51.62,At Risk
+P0419,11,13,910.84,239,Finance,High,53.37,At Risk
+P0420,5,3,313.06,357,HR,Medium,45.09,At Risk
+P0421,12,8,984.35,153,IT,High,49.94,At Risk
+P0422,3,17,183.68,142,Marketing,Low,51.02,At Risk
+P0423,1,17,241.91,41,HR,High,32.21,On Schedule
+P0424,1,13,225.01,155,IT,Low,55.55,At Risk
+P0425,8,4,899.29,82,IT,Low,58.38,At Risk
+P0426,10,16,671.58,360,Finance,Medium,69.2,Delayed
+P0427,11,4,194.5,312,HR,High,27.42,On Schedule
+P0428,12,6,468.31,169,IT,Medium,36.32,At Risk
+P0429,13,19,634.53,126,IT,High,34.49,At Risk
+P0430,12,5,129.29,34,HR,Low,19.26,On Schedule
+P0431,14,15,888.3,86,Marketing,Low,58.29,At Risk
+P0432,2,11,813.42,363,HR,High,68.61,Delayed
+P0433,19,9,529.95,98,HR,High,23.59,On Schedule
+P0434,18,17,968.77,147,Marketing,Medium,47.89,At Risk
+P0435,3,13,446.87,88,HR,High,33.11,At Risk
+P0436,17,4,984.9,62,IT,High,19.93,On Schedule
+P0437,8,17,684.52,347,HR,High,65.23,At Risk
+P0438,10,16,652.94,79,Marketing,Medium,47.54,At Risk
+P0439,2,13,207.66,48,Operations,High,34.54,At Risk
+P0440,19,5,887.83,243,HR,Low,60.72,At Risk
+P0441,9,19,456.12,226,Finance,Medium,63.23,At Risk
+P0442,7,14,204.12,76,IT,Medium,42.04,At Risk
+P0443,4,17,61.98,196,IT,Low,54.28,At Risk
+P0444,18,18,581.77,318,Finance,Low,63.77,At Risk
+P0445,13,7,551.03,170,Finance,Low,56.19,At Risk
+P0446,11,8,733.39,113,HR,High,24.73,On Schedule
+P0447,4,7,895.75,211,Finance,Low,74.0,Delayed
+P0448,4,5,125.44,108,Operations,High,26.42,On Schedule
+P0449,10,3,744.92,244,Marketing,Medium,46.27,At Risk
+P0450,5,8,228.04,43,Finance,Medium,43.3,At Risk
+P0451,9,17,865.27,244,Finance,Low,72.11,Delayed
+P0452,3,4,828.11,157,Operations,High,44.84,At Risk
+P0453,17,5,563.75,339,IT,Low,55.98,At Risk
+P0454,3,19,724.73,277,IT,Low,76.68,Delayed
+P0455,16,14,348.63,58,HR,High,14.31,On Schedule
+P0456,4,20,497.61,309,Operations,Low,76.94,Delayed
+P0457,18,17,830.56,348,Marketing,Medium,57.47,At Risk
+P0458,17,14,486.3,231,Marketing,Low,49.79,At Risk
+P0459,7,18,389.91,86,Operations,High,35.71,At Risk
+P0460,5,10,519.5,247,Marketing,High,43.33,At Risk
+P0461,12,16,836.84,91,IT,Medium,54.07,At Risk
+P0462,17,19,368.45,186,Marketing,High,33.85,At Risk
+P0463,13,10,215.07,231,Marketing,High,23.34,On Schedule
+P0464,3,17,726.41,46,Operations,Medium,56.93,At Risk
+P0465,9,16,834.68,351,Operations,Low,88.92,Delayed
+P0466,17,20,145.61,35,Marketing,Medium,25.14,On Schedule
+P0467,17,9,277.88,87,Finance,Low,45.0,At Risk
+P0468,20,5,184.87,354,Operations,Medium,41.3,At Risk
+P0469,16,14,380.54,347,HR,Low,67.28,Delayed
+P0470,13,5,477.83,198,HR,Medium,25.12,On Schedule
+P0471,19,16,761.39,111,IT,Low,53.44,At Risk
+P0472,17,17,668.59,248,Marketing,Medium,49.56,At Risk
+P0473,4,16,639.88,206,Finance,Low,74.49,Delayed
+P0474,12,9,384.76,233,IT,Medium,39.29,At Risk
+P0475,9,19,849.38,100,Marketing,High,46.83,At Risk
+P0476,19,14,497.72,295,Operations,Low,51.94,At Risk
+P0477,12,6,980.15,127,HR,Medium,47.81,At Risk
+P0478,9,11,652.44,320,Finance,Low,71.23,Delayed
+P0479,7,8,169.95,237,HR,Low,45.49,At Risk
+P0480,14,18,692.37,31,Operations,Medium,46.5,At Risk
+P0481,20,4,358.85,153,Marketing,Low,28.16,On Schedule
+P0482,19,10,702.01,309,Operations,Medium,58.27,At Risk
+P0483,15,13,116.16,103,Operations,High,15.59,On Schedule
+P0484,16,15,216.14,195,HR,Low,44.25,At Risk
+P0485,5,19,862.95,51,Finance,High,57.82,At Risk
+P0486,3,10,265.82,183,Operations,Low,56.79,At Risk
+P0487,12,20,845.19,324,HR,Low,82.36,Delayed
+P0488,20,20,315.31,248,Finance,Low,63.7,At Risk
+P0489,4,16,660.74,186,Marketing,Medium,55.0,At Risk
+P0490,16,17,709.44,259,Marketing,High,42.53,At Risk
+P0491,7,8,537.02,49,IT,Low,47.36,At Risk
+P0492,13,13,340.05,70,HR,Medium,29.71,On Schedule
+P0493,10,15,252.01,177,Finance,Low,60.55,At Risk
+P0494,7,3,81.53,137,Operations,Medium,28.82,On Schedule
+P0495,14,8,338.75,113,Marketing,Low,31.01,On Schedule
+P0496,5,11,670.5,351,Finance,High,65.27,At Risk
+P0497,3,10,941.39,338,HR,High,61.06,At Risk
+P0498,11,13,877.64,319,IT,Low,80.63,Delayed
+P0499,11,11,777.76,352,Marketing,Medium,55.32,At Risk
+P0500,18,19,799.02,163,Finance,Low,71.65,Delayed
+P0501,15,14,681.74,236,Finance,Medium,59.19,At Risk
+P0502,12,16,297.27,312,Finance,Low,65.87,At Risk
+P0503,9,17,911.84,295,HR,Medium,74.43,Delayed
+P0504,10,18,687.2,102,HR,High,43.71,At Risk
+P0505,12,3,582.42,77,HR,Low,42.66,At Risk
+P0506,17,12,155.44,355,Operations,High,43.24,At Risk
+P0507,6,10,474.7,262,Finance,High,51.16,At Risk
+P0508,7,20,487.34,129,Marketing,Low,53.82,At Risk
+P0509,14,3,871.34,88,HR,Low,41.51,At Risk
+P0510,13,4,569.32,287,HR,Medium,43.97,At Risk
+P0511,8,3,411.38,94,Finance,Medium,39.27,At Risk
+P0512,10,3,977.96,112,HR,High,33.0,On Schedule
+P0513,9,11,155.18,183,Operations,Medium,37.5,At Risk
+P0514,18,15,451.42,295,Operations,Medium,59.76,At Risk
+P0515,2,3,89.92,338,HR,Low,52.3,At Risk
+P0516,5,15,752.91,108,Finance,Medium,57.22,At Risk
+P0517,5,9,922.17,344,Finance,High,71.47,Delayed
+P0518,6,4,316.04,179,Finance,Medium,41.17,At Risk
+P0519,19,8,865.42,77,IT,High,21.8,On Schedule
+P0520,8,9,327.61,277,HR,Low,59.67,At Risk
+P0521,16,16,915.23,307,Finance,High,58.94,At Risk
+P0522,13,20,766.26,127,Operations,Medium,57.2,At Risk
+P0523,1,17,814.66,54,Marketing,Low,62.85,At Risk
+P0524,20,4,67.11,313,Marketing,Medium,24.58,On Schedule
+P0525,17,12,964.67,330,Finance,Low,68.14,Delayed
+P0526,7,14,740.34,97,Marketing,Low,54.48,At Risk
+P0527,13,19,339.51,36,Marketing,Medium,36.08,At Risk
+P0528,4,10,837.92,334,IT,Medium,76.76,Delayed
+P0529,4,13,317.45,166,Operations,Low,53.18,At Risk
+P0530,6,5,879.12,193,Operations,Low,68.95,Delayed
+P0531,19,8,156.95,112,IT,Medium,16.49,On Schedule
+P0532,12,11,718.5,167,IT,High,38.56,At Risk
+P0533,7,8,563.66,102,Marketing,Medium,35.34,At Risk
+P0534,10,11,141.71,266,HR,Low,49.92,At Risk
+P0535,19,9,279.8,75,Marketing,Medium,21.3,On Schedule
+P0536,7,11,61.78,135,IT,High,25.43,On Schedule
+P0537,3,20,495.33,317,Operations,Medium,72.87,Delayed
+P0538,13,14,336.2,291,Marketing,Low,58.62,At Risk
+P0539,13,10,618.44,205,HR,Medium,41.9,At Risk
+P0540,18,10,332.38,195,Marketing,Low,37.94,At Risk
+P0541,20,20,334.92,174,Finance,Low,58.02,At Risk
+P0542,8,17,756.03,359,Marketing,Medium,72.43,Delayed
+P0543,9,9,95.74,312,IT,Low,50.34,At Risk
+P0544,7,13,907.75,83,Operations,Low,57.92,At Risk
+P0545,1,18,859.65,207,Operations,High,67.34,Delayed
+P0546,3,6,684.41,273,IT,High,43.73,At Risk
+P0547,13,8,613.56,156,Finance,High,35.9,At Risk
+P0548,17,5,897.69,300,IT,High,49.82,At Risk
+P0549,1,11,226.06,161,Marketing,Low,51.81,At Risk
+P0550,6,12,125.02,122,IT,Medium,26.84,On Schedule
+P0551,6,16,277.53,102,IT,Low,51.79,At Risk
+P0552,12,13,804.85,277,Finance,Low,73.33,Delayed
+P0553,13,20,82.94,302,Marketing,Low,48.95,At Risk
+P0554,13,14,603.67,72,HR,Medium,40.19,At Risk
+P0555,15,14,995.67,70,HR,High,36.71,At Risk
+P0556,16,15,862.91,199,Operations,Low,63.96,At Risk
+P0557,11,15,545.37,241,IT,Low,63.98,At Risk
+P0558,5,16,110.46,197,Operations,High,36.35,At Risk
+P0559,4,6,839.8,68,Finance,Low,60.06,At Risk
+P0560,3,15,619.03,274,HR,Medium,62.36,At Risk
+P0561,19,10,159.19,180,IT,Low,33.46,At Risk
+P0562,20,14,139.16,140,Finance,Low,43.92,At Risk
+P0563,18,20,914.15,76,Finance,High,51.23,At Risk
+P0564,15,8,685.74,92,IT,Low,37.6,At Risk
+P0565,9,20,837.82,254,Finance,Low,86.91,Delayed
+P0566,17,7,885.03,98,IT,Medium,45.46,At Risk
+P0567,14,11,593.18,328,IT,High,54.13,At Risk
+P0568,15,5,541.57,319,Marketing,High,36.2,At Risk
+P0569,1,12,458.91,325,Operations,Medium,62.15,At Risk
+P0570,3,5,351.1,232,Finance,Low,61.59,At Risk
+P0571,16,17,462.87,90,Finance,High,30.25,On Schedule
+P0572,11,3,785.19,347,Marketing,High,42.91,At Risk
+P0573,12,9,621.83,343,Marketing,Low,63.75,At Risk
+P0574,10,14,897.9,190,Marketing,Low,61.23,At Risk
+P0575,16,19,471.21,360,HR,High,46.17,At Risk
+P0576,8,7,626.74,45,HR,Low,45.37,At Risk
+P0577,6,6,649.74,123,HR,High,41.61,At Risk
+P0578,12,14,612.11,333,IT,Low,75.84,Delayed
+P0579,8,20,717.5,167,Finance,Low,77.62,Delayed
+P0580,4,19,275.56,67,Operations,Medium,50.35,At Risk
+P0581,8,11,536.75,156,IT,Low,58.05,At Risk
+P0582,18,6,149.01,304,Finance,Medium,39.58,At Risk
+P0583,5,4,415.29,193,Finance,Low,58.65,At Risk
+P0584,9,6,513.28,348,Marketing,High,35.99,At Risk
+P0585,4,4,669.61,106,Marketing,High,30.82,On Schedule
+P0586,17,17,953.0,203,IT,Low,67.88,Delayed
+P0587,9,4,620.62,350,Marketing,Low,60.59,At Risk
+P0588,1,6,756.41,120,Finance,High,44.83,At Risk
+P0589,20,8,530.95,267,Marketing,Low,47.68,At Risk
+P0590,13,9,652.4,293,HR,Medium,48.56,At Risk
+P0591,16,12,117.39,208,Marketing,Medium,26.3,On Schedule
+P0592,13,14,291.67,238,Finance,Medium,46.28,At Risk
+P0593,14,5,393.76,102,IT,Medium,30.72,On Schedule
+P0594,3,15,498.87,136,Operations,Medium,54.36,At Risk
+P0595,6,20,93.37,324,Marketing,Low,60.83,At Risk
+P0596,18,10,183.02,313,Finance,Low,50.36,At Risk
+P0597,19,17,312.97,211,Operations,Medium,42.62,At Risk
+P0598,5,3,972.96,66,Operations,Low,63.59,At Risk
+P0599,15,5,364.78,166,HR,Low,31.81,On Schedule
+P0600,2,10,507.94,85,Operations,Medium,49.45,At Risk
+P0601,10,6,236.29,216,Finance,Low,51.17,At Risk
+P0602,18,18,630.24,287,Finance,Low,66.51,Delayed
+P0603,13,12,316.65,87,Marketing,Low,42.41,At Risk
+P0604,5,14,246.64,152,Marketing,Medium,42.19,At Risk
+P0605,1,16,540.74,217,Marketing,Low,65.06,At Risk
+P0606,1,16,55.23,259,Operations,High,37.95,At Risk
+P0607,18,4,57.28,197,Operations,High,14.55,On Schedule
+P0608,15,7,258.12,143,HR,Medium,25.65,On Schedule
+P0609,17,7,84.89,281,Marketing,High,14.27,On Schedule
+P0610,11,8,152.62,136,IT,Medium,24.29,On Schedule
+P0611,17,15,371.92,66,HR,High,24.42,On Schedule
+P0612,13,11,812.46,364,IT,High,48.64,At Risk
+P0613,1,17,593.45,121,Operations,High,52.4,At Risk
+P0614,2,16,537.03,47,HR,Medium,46.22,At Risk
+P0615,9,9,328.81,92,HR,Medium,33.47,At Risk
+P0616,3,4,935.17,179,Finance,Low,68.45,Delayed
+P0617,1,9,427.16,168,Operations,Medium,51.91,At Risk
+P0618,16,8,132.74,215,Operations,High,19.7,On Schedule
+P0619,6,19,636.21,214,HR,High,53.22,At Risk
+P0620,17,4,158.15,234,Operations,Medium,30.86,On Schedule
+P0621,5,5,377.96,289,HR,Medium,48.15,At Risk
+P0622,5,7,532.04,243,Finance,Medium,57.88,At Risk
+P0623,6,7,880.51,285,HR,Low,66.69,Delayed
+P0624,3,3,518.87,164,Operations,High,33.71,At Risk
+P0625,5,10,717.15,90,Operations,Low,56.08,At Risk
+P0626,5,14,993.18,339,HR,Low,84.8,Delayed
+P0627,10,6,174.91,117,HR,High,22.32,On Schedule
+P0628,10,15,310.99,353,HR,High,46.06,At Risk
+P0629,19,17,424.85,236,Marketing,Medium,36.6,At Risk
+P0630,17,13,450.74,158,Operations,Medium,42.36,At Risk
+P0631,14,12,440.47,340,Operations,Low,70.01,Delayed
+P0632,9,5,912.23,32,Marketing,Medium,30.52,On Schedule
+P0633,14,16,728.33,271,HR,Medium,67.21,Delayed
+P0634,1,18,627.51,150,Finance,High,59.62,At Risk
+P0635,19,12,343.9,131,HR,High,24.53,On Schedule
+P0636,13,12,832.6,67,HR,Medium,48.92,At Risk
+P0637,13,14,957.31,162,Marketing,High,48.35,At Risk
+P0638,4,11,830.14,231,Operations,Medium,65.37,At Risk
+P0639,1,3,51.49,50,HR,High,18.28,On Schedule
+P0640,17,7,654.58,271,Operations,High,40.69,At Risk
+P0641,8,10,98.58,138,IT,High,28.31,On Schedule
+P0642,2,13,294.73,332,Operations,High,59.42,At Risk
+P0643,8,14,106.55,113,Finance,Medium,34.2,At Risk
+P0644,7,3,623.61,112,Finance,Low,54.79,At Risk
+P0645,2,13,702.26,320,HR,High,60.2,At Risk
+P0646,3,7,158.76,98,Operations,Medium,34.62,At Risk
+P0647,18,17,414.65,158,HR,Medium,39.28,At Risk
+P0648,12,7,483.42,225,Marketing,High,30.22,On Schedule
+P0649,1,14,400.6,169,Finance,Low,72.9,Delayed
+P0650,12,7,164.97,312,HR,High,24.56,On Schedule
+P0651,5,19,448.0,341,Marketing,Medium,57.64,At Risk
+P0652,17,19,763.62,263,HR,Low,59.64,At Risk
+P0653,16,14,117.46,52,Operations,Medium,29.24,On Schedule
+P0654,15,17,126.17,182,Operations,High,26.9,On Schedule
+P0655,15,17,387.03,306,Operations,Low,64.84,At Risk
+P0656,5,8,944.64,90,Operations,Medium,53.6,At Risk
+P0657,14,14,685.14,348,IT,Medium,59.33,At Risk
+P0658,2,20,694.74,81,Marketing,Medium,59.13,At Risk
+P0659,11,16,393.82,182,Marketing,High,33.58,At Risk
+P0660,19,4,613.98,266,Operations,Low,49.49,At Risk
+P0661,7,11,59.62,340,IT,High,41.11,At Risk
+P0662,6,7,654.29,331,Operations,High,57.36,At Risk
+P0663,2,3,917.62,61,IT,High,34.23,At Risk
+P0664,6,5,631.94,84,Operations,Low,53.54,At Risk
+P0665,18,8,880.01,65,Finance,High,38.78,At Risk
+P0666,2,7,737.77,139,Finance,High,41.73,At Risk
+P0667,18,7,164.53,206,HR,High,17.99,On Schedule
+P0668,15,3,907.33,343,Operations,High,48.51,At Risk
+P0669,19,19,113.12,324,Marketing,Medium,44.89,At Risk
+P0670,2,16,557.27,365,HR,High,58.3,At Risk
+P0671,20,14,185.03,126,Finance,Medium,38.19,At Risk
+P0672,6,12,61.12,242,Operations,High,29.26,On Schedule
+P0673,1,20,450.93,346,HR,Low,80.39,Delayed
+P0674,15,13,330.29,166,Operations,Medium,41.04,At Risk
+P0675,10,4,511.7,35,Finance,Medium,29.0,On Schedule
+P0676,19,20,598.34,138,HR,Medium,40.7,At Risk
+P0677,17,9,91.55,64,Finance,Medium,22.4,On Schedule
+P0678,5,17,166.85,68,IT,Low,47.53,At Risk
+P0679,4,13,580.71,179,Finance,High,51.0,At Risk
+P0680,10,20,376.01,147,Operations,Medium,54.32,At Risk
+P0681,17,14,742.71,290,Marketing,Low,60.13,At Risk
+P0682,10,8,669.68,116,Finance,Medium,48.01,At Risk
+P0683,17,15,853.32,105,Marketing,High,32.07,On Schedule
+P0684,20,18,707.87,342,IT,Medium,58.25,At Risk
+P0685,5,20,458.43,243,HR,Low,68.81,Delayed
+P0686,2,12,689.32,314,HR,High,57.0,At Risk
+P0687,6,10,311.61,268,Marketing,Low,52.34,At Risk
+P0688,2,20,341.0,194,HR,High,53.51,At Risk
+P0689,13,3,799.54,116,Finance,High,32.62,On Schedule
+P0690,11,10,474.1,170,Marketing,High,26.43,On Schedule
+P0691,11,8,808.46,189,Operations,Medium,52.7,At Risk
+P0692,16,7,831.3,75,Finance,Low,50.5,At Risk
+P0693,11,17,864.68,141,Finance,Low,65.66,At Risk
+P0694,19,17,920.8,74,Finance,Low,58.57,At Risk
+P0695,15,4,459.44,276,Operations,High,31.95,On Schedule
+P0696,16,3,352.92,133,IT,Medium,23.67,On Schedule
+P0697,11,13,603.09,114,HR,High,37.27,At Risk
+P0698,16,12,402.61,163,Marketing,Low,42.17,At Risk
+P0699,8,20,621.02,137,IT,Medium,61.94,At Risk
+P0700,4,20,720.31,47,Marketing,Medium,51.65,At Risk
+P0701,8,19,703.98,123,HR,Medium,62.75,At Risk
+P0702,4,10,405.83,179,Operations,Low,55.85,At Risk
+P0703,3,17,208.52,275,Finance,Medium,58.53,At Risk
+P0704,3,10,459.0,318,Finance,Medium,67.28,Delayed
+P0705,18,19,185.46,238,Operations,High,41.4,At Risk
+P0706,19,14,895.59,155,IT,High,34.81,At Risk
+P0707,19,10,378.58,264,IT,Medium,38.8,At Risk
+P0708,5,16,196.74,151,Marketing,Medium,37.81,At Risk
+P0709,18,6,74.18,167,Operations,High,14.35,On Schedule
+P0710,10,3,663.53,144,IT,High,30.62,On Schedule
+P0711,6,3,655.06,191,Operations,High,45.17,At Risk
+P0712,1,18,373.57,230,HR,Low,67.85,Delayed
+P0713,5,16,118.13,263,Finance,Low,70.21,Delayed
+P0714,9,18,439.15,57,Finance,High,36.83,At Risk
+P0715,12,7,345.66,40,Finance,Medium,33.05,At Risk
+P0716,14,11,693.26,235,Operations,High,45.65,At Risk
+P0717,2,4,625.49,196,Operations,Low,68.36,Delayed
+P0718,17,20,396.36,276,Marketing,Medium,42.35,At Risk
+P0719,14,8,257.0,76,Finance,Low,32.22,On Schedule
+P0720,13,11,988.63,275,Marketing,Medium,67.26,Delayed
+P0721,9,3,481.3,156,Finance,Low,45.88,At Risk
+P0722,15,11,703.86,176,Marketing,Medium,39.17,At Risk
+P0723,15,18,183.53,147,Marketing,Medium,28.92,On Schedule
+P0724,11,15,511.31,181,HR,Medium,52.46,At Risk
+P0725,16,11,76.16,101,Marketing,Medium,12.76,On Schedule
+P0726,17,15,530.18,166,Operations,Low,53.59,At Risk
+P0727,4,11,965.82,204,Marketing,Low,68.91,Delayed
+P0728,1,13,415.0,318,Finance,Medium,73.07,Delayed
+P0729,8,6,87.05,48,Marketing,Medium,14.13,On Schedule
+P0730,17,4,79.41,224,IT,Low,34.53,At Risk
+P0731,3,8,418.59,359,Finance,Medium,59.89,At Risk
+P0732,20,16,202.02,204,IT,Medium,45.2,At Risk
+P0733,15,6,72.18,170,Finance,Medium,26.85,On Schedule
+P0734,15,8,768.4,275,Operations,High,45.89,At Risk
+P0735,14,8,485.6,122,Operations,Medium,42.98,At Risk
+P0736,14,4,324.78,268,Operations,High,27.48,On Schedule
+P0737,2,20,905.08,234,IT,Medium,84.58,Delayed
+P0738,13,15,160.33,77,HR,Low,34.88,At Risk
+P0739,14,11,958.12,274,Finance,High,60.43,At Risk
+P0740,19,15,348.27,349,Operations,High,41.09,At Risk
+P0741,7,13,893.98,346,Finance,Medium,72.53,Delayed
+P0742,3,3,622.8,324,IT,Medium,60.21,At Risk
+P0743,15,9,835.37,157,HR,High,38.87,At Risk
+P0744,14,17,984.81,311,IT,Low,74.5,Delayed
+P0745,11,3,323.99,46,Finance,Low,33.08,At Risk
+P0746,15,14,963.08,100,HR,Medium,54.11,At Risk
+P0747,13,9,420.01,298,HR,Low,57.37,At Risk
+P0748,18,17,416.24,354,IT,Low,62.62,At Risk
+P0749,6,3,373.37,311,Operations,Medium,47.0,At Risk
+P0750,3,19,564.34,334,Finance,Low,95.26,Delayed
+P0751,19,19,196.44,36,Marketing,Medium,15.59,On Schedule
+P0752,15,5,576.03,343,Marketing,High,36.5,At Risk
+P0753,5,14,564.62,334,IT,Medium,60.64,At Risk
+P0754,10,8,773.81,132,Finance,High,47.76,At Risk
+P0755,7,13,841.97,338,Finance,High,67.67,Delayed
+P0756,17,5,468.42,222,IT,Low,45.01,At Risk
+P0757,7,10,337.22,270,Finance,Low,74.85,Delayed
+P0758,12,16,296.37,91,Operations,Low,44.29,At Risk
+P0759,17,16,234.89,46,IT,Medium,34.32,At Risk
+P0760,13,12,104.77,200,Operations,Low,43.39,At Risk
+P0761,20,4,375.33,54,Finance,High,10.95,On Schedule
+P0762,4,16,306.74,280,IT,Low,78.73,Delayed
+P0763,10,11,968.1,282,Finance,Low,78.65,Delayed
+P0764,3,5,579.82,236,IT,Medium,46.52,At Risk
+P0765,9,10,379.91,58,Finance,Medium,38.38,At Risk
+P0766,13,18,601.44,146,Operations,High,42.54,At Risk
+P0767,18,4,182.24,311,Operations,Medium,36.04,At Risk
+P0768,15,8,471.84,173,Finance,Low,49.15,At Risk
+P0769,4,14,644.92,54,IT,Medium,57.97,At Risk
+P0770,15,7,514.45,339,Marketing,High,39.2,At Risk
+P0771,2,4,431.69,185,Operations,Low,50.08,At Risk
+P0772,15,18,994.16,102,Operations,High,49.34,At Risk
+P0773,8,7,886.3,149,Marketing,Medium,43.81,At Risk
+P0774,8,17,642.24,341,Finance,Medium,73.21,Delayed
+P0775,17,14,590.91,350,IT,High,45.42,At Risk
+P0776,12,6,639.63,122,Finance,Low,60.18,At Risk
+P0777,19,17,241.25,115,HR,Medium,26.76,On Schedule
+P0778,10,13,425.38,365,Operations,Medium,64.7,At Risk
+P0779,9,18,87.49,147,HR,Low,45.39,At Risk
+P0780,5,8,501.77,262,Operations,Medium,50.29,At Risk
+P0781,6,16,565.87,228,Operations,High,53.86,At Risk
+P0782,20,20,266.36,235,HR,Medium,43.6,At Risk
+P0783,2,14,965.83,176,HR,Medium,69.13,Delayed
+P0784,13,13,913.98,300,Finance,Low,67.23,Delayed
+P0785,6,15,736.04,168,HR,High,43.2,At Risk
+P0786,5,13,556.72,210,Finance,Low,73.24,Delayed
+P0787,1,18,876.47,59,Finance,Medium,62.25,At Risk
+P0788,6,17,174.12,86,Finance,Medium,44.43,At Risk
+P0789,6,17,800.98,261,Operations,Low,74.86,Delayed
+P0790,16,6,168.58,175,Operations,Low,39.21,At Risk
+P0791,4,13,804.5,77,HR,Low,64.47,At Risk
+P0792,11,17,311.98,223,Operations,High,45.3,At Risk
+P0793,9,6,883.24,253,HR,Medium,60.37,At Risk
+P0794,3,15,946.84,165,Operations,Low,84.31,Delayed
+P0795,19,4,191.36,51,IT,Medium,6.86,On Schedule
+P0796,8,16,489.54,35,IT,High,29.01,On Schedule
+P0797,5,6,981.94,233,HR,High,55.93,At Risk
+P0798,4,18,509.24,268,Operations,High,63.29,At Risk
+P0799,6,16,870.37,214,Operations,High,57.33,At Risk
+P0800,2,17,609.29,321,Finance,Medium,74.07,Delayed
+P0801,20,5,406.56,364,Marketing,High,26.37,On Schedule
+P0802,11,10,321.49,249,HR,High,26.89,On Schedule
+P0803,4,18,243.06,145,Marketing,Low,47.34,At Risk
+P0804,15,12,773.71,342,Marketing,High,43.81,At Risk
+P0805,6,6,417.21,78,HR,Low,39.71,At Risk
+P0806,17,20,535.71,202,Operations,High,45.39,At Risk
+P0807,6,4,517.71,111,HR,High,28.83,On Schedule
+P0808,19,19,598.42,351,Marketing,Low,63.68,At Risk
+P0809,2,15,872.3,362,Operations,High,72.29,Delayed
+P0810,15,6,981.7,74,IT,Medium,41.54,At Risk
+P0811,11,13,437.2,364,HR,Medium,51.13,At Risk
+P0812,8,9,836.14,49,HR,High,38.28,At Risk
+P0813,19,14,776.3,250,Operations,Medium,60.8,At Risk
+P0814,13,12,594.85,152,IT,Low,50.33,At Risk
+P0815,12,9,958.24,263,IT,High,50.41,At Risk
+P0816,5,15,240.45,250,Operations,High,51.07,At Risk
+P0817,6,9,153.8,352,Finance,Low,63.57,At Risk
+P0818,4,19,861.26,32,HR,Low,67.16,Delayed
+P0819,19,12,467.19,211,HR,Low,46.52,At Risk
+P0820,20,12,854.62,235,Marketing,High,45.31,At Risk
+P0821,1,6,898.44,349,Operations,Low,85.26,Delayed
+P0822,20,6,109.33,69,Marketing,Low,18.9,On Schedule
+P0823,17,9,889.29,88,Marketing,Medium,38.92,At Risk
+P0824,12,3,475.9,91,IT,Medium,25.77,On Schedule
+P0825,15,14,534.91,161,HR,High,31.28,On Schedule
+P0826,1,15,645.26,89,Marketing,Medium,53.86,At Risk
+P0827,14,12,930.06,360,IT,Medium,69.3,Delayed
+P0828,6,17,68.16,151,Operations,Low,46.65,At Risk
+P0829,5,15,503.0,136,Marketing,Low,63.39,At Risk
+P0830,11,11,703.34,125,HR,Medium,48.57,At Risk
+P0831,4,11,736.57,264,Marketing,Medium,59.95,At Risk
+P0832,13,17,707.91,91,Operations,Medium,48.39,At Risk
+P0833,11,12,177.71,285,Marketing,High,32.99,On Schedule
+P0834,3,12,334.43,78,HR,High,32.5,On Schedule
+P0835,1,10,390.78,188,IT,High,33.05,At Risk
+P0836,6,18,814.22,153,HR,Medium,70.34,Delayed
+P0837,18,19,314.82,346,IT,Medium,50.91,At Risk
+P0838,10,7,250.17,236,Finance,High,34.78,At Risk
+P0839,5,6,959.58,77,HR,High,39.51,At Risk
+P0840,10,20,58.42,165,HR,Medium,48.49,At Risk
+P0841,12,6,997.93,230,Operations,Low,66.26,Delayed
+P0842,2,9,692.98,279,Marketing,High,57.76,At Risk
+P0843,13,12,837.05,343,IT,Medium,67.56,Delayed
+P0844,8,20,329.89,347,IT,Medium,60.77,At Risk
+P0845,2,6,63.6,324,Operations,Low,58.04,At Risk
+P0846,20,12,750.98,343,Operations,Medium,58.29,At Risk
+P0847,1,3,842.44,238,Marketing,Medium,50.58,At Risk
+P0848,5,20,753.45,240,Marketing,High,59.54,At Risk
+P0849,9,7,185.71,221,HR,High,26.81,On Schedule
+P0850,17,17,765.76,73,Finance,Low,59.77,At Risk
+P0851,9,19,780.48,58,Marketing,Low,58.11,At Risk
+P0852,11,5,675.61,88,Operations,Medium,35.26,At Risk
+P0853,15,14,777.81,100,Marketing,High,35.93,At Risk
+P0854,6,4,853.63,121,IT,Low,53.25,At Risk
+P0855,3,3,632.92,294,Finance,Low,55.94,At Risk
+P0856,17,19,134.17,249,HR,Low,50.25,At Risk
+P0857,5,18,513.25,244,IT,Medium,60.27,At Risk
+P0858,12,7,123.77,306,IT,High,32.26,On Schedule
+P0859,18,17,437.17,93,Finance,Low,57.65,At Risk
+P0860,14,5,436.75,321,HR,High,43.51,At Risk
+P0861,11,9,112.71,274,Operations,Low,49.08,At Risk
+P0862,9,13,381.38,91,HR,Low,41.83,At Risk
+P0863,2,12,155.45,361,Marketing,High,48.12,At Risk
+P0864,12,11,817.82,199,IT,High,43.77,At Risk
+P0865,3,16,950.3,298,Marketing,High,67.31,Delayed
+P0866,3,15,118.7,296,Operations,Medium,53.54,At Risk
+P0867,1,4,957.36,83,Marketing,Low,57.15,At Risk
+P0868,8,5,546.45,45,HR,Medium,26.97,On Schedule
+P0869,8,9,334.59,37,Marketing,High,22.01,On Schedule
+P0870,11,20,123.02,133,Operations,Low,47.79,At Risk
+P0871,9,5,525.59,88,Operations,Medium,38.65,At Risk
+P0872,5,12,804.79,342,Operations,Low,77.03,Delayed
+P0873,14,9,721.73,69,HR,Medium,39.12,At Risk
+P0874,3,11,97.71,266,Operations,High,36.61,At Risk
+P0875,5,19,119.26,123,IT,Medium,44.66,At Risk
+P0876,5,13,432.73,251,Operations,Low,70.72,Delayed
+P0877,19,9,330.53,233,Marketing,Low,38.38,At Risk
+P0878,14,16,270.77,167,Marketing,Low,39.72,At Risk
+P0879,4,6,316.95,329,Marketing,Low,59.05,At Risk
+P0880,13,8,813.31,236,HR,High,38.79,At Risk
+P0881,10,12,932.77,365,Marketing,Medium,66.78,Delayed
+P0882,18,9,434.85,110,HR,High,19.93,On Schedule
+P0883,8,15,910.81,247,HR,High,63.5,At Risk
+P0884,8,16,355.42,31,Operations,High,30.29,On Schedule
+P0885,7,6,502.62,207,IT,Low,54.23,At Risk
+P0886,8,10,264.73,308,Operations,Low,63.52,At Risk
+P0887,14,7,658.45,175,Operations,Low,52.51,At Risk
+P0888,19,3,980.03,347,HR,Medium,56.43,At Risk
+P0889,6,6,623.32,253,HR,Low,64.84,At Risk
+P0890,1,5,389.92,91,Marketing,Medium,32.12,On Schedule
+P0891,15,11,665.43,323,Marketing,Low,46.89,At Risk
+P0892,1,10,166.77,268,Operations,Low,57.39,At Risk
+P0893,17,3,894.23,224,Finance,High,46.26,At Risk
+P0894,1,8,527.93,195,Finance,High,48.27,At Risk
+P0895,15,11,476.88,251,Marketing,High,31.55,On Schedule
+P0896,2,9,606.57,90,Finance,Medium,56.24,At Risk
+P0897,14,6,643.54,158,Marketing,Medium,34.41,At Risk
+P0898,8,15,118.19,202,HR,Low,40.69,At Risk
+P0899,8,19,698.49,185,Operations,Medium,56.67,At Risk
+P0900,19,4,279.84,139,IT,Low,31.62,On Schedule
+P0901,7,7,728.26,298,Operations,Medium,61.16,At Risk
+P0902,19,14,831.41,307,Marketing,Medium,61.4,At Risk
+P0903,6,10,813.76,103,Marketing,Medium,43.43,At Risk
+P0904,6,8,574.88,236,Operations,High,44.39,At Risk
+P0905,3,10,544.16,308,Marketing,Medium,54.0,At Risk
+P0906,7,20,185.73,355,Finance,High,55.94,At Risk
+P0907,19,5,786.58,233,Finance,High,30.82,On Schedule
+P0908,8,14,307.84,190,Marketing,Medium,40.07,At Risk
+P0909,10,5,521.86,57,Marketing,Low,34.74,At Risk
+P0910,20,8,320.06,286,Finance,Low,49.19,At Risk
+P0911,15,4,177.14,194,Marketing,Low,39.87,At Risk
+P0912,15,14,648.08,92,Marketing,Medium,45.02,At Risk
+P0913,1,4,101.62,51,Operations,Low,32.99,On Schedule
+P0914,20,8,761.21,99,IT,High,16.91,On Schedule
+P0915,7,19,351.71,125,Finance,Low,60.77,At Risk
+P0916,4,5,50.13,192,Operations,Medium,37.01,At Risk
+P0917,6,4,535.57,108,IT,Low,42.52,At Risk
+P0918,1,10,94.51,34,Marketing,High,13.98,On Schedule
+P0919,5,14,312.36,345,Marketing,Medium,63.44,At Risk
+P0920,1,6,721.63,149,Operations,Low,61.7,At Risk
+P0921,4,7,109.56,331,Marketing,Medium,46.62,At Risk
+P0922,2,15,847.37,207,HR,Medium,62.87,At Risk
+P0923,10,17,53.63,205,Operations,Medium,42.99,At Risk
+P0924,5,18,284.48,246,IT,Low,63.75,At Risk
+P0925,10,12,753.86,85,Operations,Medium,45.09,At Risk
+P0926,1,18,350.46,216,Finance,Low,77.65,Delayed
+P0927,6,14,146.8,261,Operations,High,36.06,At Risk
+P0928,13,19,392.22,284,Marketing,Low,61.81,At Risk
+P0929,15,18,306.87,133,Marketing,High,24.82,On Schedule
+P0930,4,14,850.58,106,HR,Low,66.76,Delayed
+P0931,13,10,347.68,259,HR,Medium,40.67,At Risk
+P0932,20,5,799.49,287,HR,Low,57.61,At Risk
+P0933,15,18,897.28,293,IT,Medium,63.8,At Risk
+P0934,8,15,462.13,360,HR,High,59.09,At Risk
+P0935,5,10,914.45,211,IT,Low,71.47,Delayed
+P0936,15,7,408.45,285,HR,Medium,35.21,At Risk
+P0937,4,10,965.87,67,IT,High,48.41,At Risk
+P0938,12,14,134.83,205,Operations,High,31.08,On Schedule
+P0939,13,3,702.67,56,Operations,Low,33.74,At Risk
+P0940,2,8,519.12,305,Marketing,High,48.57,At Risk
+P0941,19,20,418.27,169,IT,Medium,47.9,At Risk
+P0942,19,10,651.08,328,Finance,High,53.28,At Risk
+P0943,4,9,718.66,316,Marketing,High,51.01,At Risk
+P0944,4,3,54.15,120,Operations,Medium,28.51,On Schedule
+P0945,11,18,208.61,90,IT,High,28.52,On Schedule
+P0946,5,14,727.39,192,HR,High,56.49,At Risk
+P0947,20,8,683.07,172,Finance,High,30.08,On Schedule
+P0948,11,4,967.75,282,Operations,High,49.41,At Risk
+P0949,10,16,772.99,298,Marketing,Medium,59.43,At Risk
+P0950,8,6,953.23,320,IT,High,50.74,At Risk
+P0951,6,3,717.41,216,Finance,Medium,55.31,At Risk
+P0952,6,20,333.15,333,IT,High,64.03,At Risk
+P0953,8,15,150.1,320,HR,High,41.6,At Risk
+P0954,15,4,792.73,115,Marketing,High,20.19,On Schedule
+P0955,14,11,661.94,195,IT,High,39.79,At Risk
+P0956,11,4,95.78,143,Operations,Medium,28.0,On Schedule
+P0957,12,11,392.05,212,Marketing,Medium,38.38,At Risk
+P0958,13,3,958.96,236,Operations,Medium,59.49,At Risk
+P0959,8,13,525.38,285,IT,Low,63.49,At Risk
+P0960,18,5,461.09,264,Marketing,High,23.52,On Schedule
+P0961,1,6,484.81,32,Operations,High,31.27,On Schedule
+P0962,15,20,248.44,237,HR,Medium,47.78,At Risk
+P0963,8,8,400.27,226,HR,Low,52.4,At Risk
+P0964,11,5,401.32,154,IT,High,19.78,On Schedule
+P0965,12,13,99.74,167,Marketing,Medium,39.72,At Risk
+P0966,12,17,779.19,54,Finance,High,42.5,At Risk
+P0967,4,7,445.68,97,Marketing,High,26.66,On Schedule
+P0968,16,12,831.07,90,HR,Medium,44.26,At Risk
+P0969,4,14,857.83,58,Operations,Medium,53.51,At Risk
+P0970,5,17,251.39,48,Finance,High,35.23,At Risk
+P0971,5,19,674.49,200,IT,High,53.11,At Risk
+P0972,8,12,498.67,103,Finance,Medium,48.63,At Risk
+P0973,10,8,886.15,90,IT,High,36.38,At Risk
+P0974,17,20,254.95,182,Finance,High,38.75,At Risk
+P0975,9,15,693.92,305,IT,Medium,61.11,At Risk
+P0976,19,5,627.36,77,IT,High,14.66,On Schedule
+P0977,14,12,330.54,240,Finance,High,32.84,On Schedule
+P0978,8,16,179.77,168,Finance,Low,52.79,At Risk
+P0979,9,8,669.06,139,IT,Medium,33.86,At Risk
+P0980,11,5,751.67,212,HR,Low,53.61,At Risk
+P0981,1,18,349.85,57,Finance,Low,58.02,At Risk
+P0982,14,9,662.59,226,Marketing,Low,52.98,At Risk
+P0983,5,16,425.37,220,Operations,High,49.64,At Risk
+P0984,14,11,727.55,344,IT,High,57.75,At Risk
+P0985,4,17,239.25,80,IT,Low,62.23,At Risk
+P0986,1,5,895.7,178,Operations,Low,73.73,Delayed
+P0987,19,4,323.04,297,HR,Low,39.54,At Risk
+P0988,8,4,399.4,79,Operations,High,20.75,On Schedule
+P0989,15,5,105.19,275,Finance,Low,48.3,At Risk
+P0990,15,20,155.94,142,Operations,Low,41.02,At Risk
+P0991,9,16,540.07,199,IT,Medium,52.88,At Risk
+P0992,9,20,304.21,195,Operations,Medium,52.25,At Risk
+P0993,10,12,843.71,43,Marketing,High,35.04,At Risk
+P0994,20,4,63.96,232,Finance,Medium,28.53,On Schedule
+P0995,9,3,410.14,317,Operations,Medium,45.11,At Risk
+P0996,3,6,370.48,218,IT,Medium,44.57,At Risk
+P0997,20,16,68.36,184,Finance,High,27.76,On Schedule
+P0998,11,3,168.15,84,IT,Medium,16.66,On Schedule
+P0999,6,16,442.96,211,HR,High,50.08,At Risk
+P1000,2,18,518.22,239,Marketing,Low,72.1,Delayed
