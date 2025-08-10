@@ -45,6 +45,12 @@ The synthetic data were generated programmatically with plausible relationships:
 
 4. **Experiment further**: adjust hyperparameters, try different algorithms, add new features or visualize other relationships to deepen your understanding.
 
+## Usage
+
+After cloning this repository and installing the dependencies, open the `project_risk_analysis.ipynb` notebook in Jupyter Notebook, JupyterLab or VS Code and run the cells sequentially. This will load the dataset, perform exploratory data analysis and build the predictive models.
+
+If you encounter environment issues, ensure you have Python 3.8 or later installed and that all packages listed in `requirements.txt` are available in your environment. You can adjust the dataset size or experiment with different models by modifying the notebook code to suit your interests.
+
 ## Potential Extensions
 
 - **Feature engineering**: derive new variables such as budget per team member or experience per team member.
